@@ -23,7 +23,7 @@ PITA is an esoteric programming that is based off of brainfuck. It's more intuit
 | `pitaset` | sets the memory pointer to 0 |
 
 ### "Hello World" In PITA
-- HellWorld.pita <br/>
+- HelloWorld.pita <br/>
 ```
 pitashiftfront pitaplus pitaplus pitaplus pitaplus pitaplus pitaplus pitaplus pitaplus pitabegin pitashiftback pitaplus pitaplus pitaplus pitaplus pitaplus pitaplus pitaplus pitaplus pitaplus pitashiftfront pitasub pitaend pitashiftback pitaout
 pitashiftfront pitaplus pitaplus pitaplus pitaplus pitabegin pitashiftback pitaplus pitaplus pitaplus pitaplus pitaplus pitaplus pitaplus pitashiftfront pitasub pitaend pitashiftback pitaplus pitaout
